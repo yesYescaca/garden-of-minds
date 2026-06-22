@@ -4,6 +4,8 @@
 
 ---
 
+![Cubism and Mind](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pop_Art_Cubism_Mind_in_Cave_by_David_S._Soriano.png/960px-Pop_Art_Cubism_Mind_in_Cave_by_David_S._Soriano.png)
+
 ## What is the Garden of Minds?
 
 The Garden of Minds is my long-term attempt to explore one of the most fascinating questions I can think of:
