@@ -26,6 +26,8 @@ I began to suspect that social life may have played a larger role than i origina
 
 Perhaprs human intelligence was originally social intelligence, or perhaps many of the abilities we now use for mathematics, science, engineering, and philosophy evolved because our ancestors needed to navigate increasingly complex social worlds.
 
+![Early Humans - Human evolution](https://i.pinimg.com/originals/c1/e4/77/c1e477a009ac3cb36c353ddfc9712fc8.jpg)
+
 This then led me to compare humans and ants since both display similar behaviours, and some of these present in ants we tend to often associate with intelligence. Ants cooperate, communicate, wage wars, build structures, farm fungi, and organize labour. Yet most people would not consider an ant colony to be intelligent in the sam way a human society is, and at first, I thought this difference might be explained by brain size. Indivual ants possess extremely small brains and therefore limited individual cognitive abilities.z
 
 However, I relaised that maybe I was asking the wrong question. Sure, an individual ant is "less intelligent" than humans, but perhaps I should ask whether they are intelligent in a completely different way. Humans seem to concentrate intelligence individualistically, whereas ants seem to distribute intelligence acrosss the colony.
