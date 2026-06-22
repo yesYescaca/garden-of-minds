@@ -61,4 +61,5 @@ The Garden of Minds therefore does not begin with an answer, but a question:
 
 *If intelligence can exist in many forms, how can we learn to recognize it?*
 
+
 I suspect this question will guide much of this journey ahead.
