@@ -1,5 +1,3 @@
-# garden-of-minds
-
 # Garden of Minds
 
 *A living exploration of intelligence, life, minds, and the many possible ways they may exist in the universe.*
