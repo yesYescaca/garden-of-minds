@@ -51,6 +51,8 @@ My answer to this is that a thermostat possesses no goal of its own. It is not a
 
 Whether this distinction survives future investigation remains uncertain. 
 
+![HAL 9000 - AI](https://wallpapers.com/images/hd/hal-9000-1920-x-1200-dzvw9d1s2jbzbfoi.jpg)
+
 Another important idea emerged when considering hypothetical alien minds. Imagine an alien species with no language, no tools, no technology, and no mathematics, and suppose it could nevertheless predict future events with incredible accuracy and maintain detailed internal models of its environment. Would such species be intelligent?
 
 I believe the answer is yes.
